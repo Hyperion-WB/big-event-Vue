@@ -1,10 +1,9 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
-import TheWelcome from './components/TheWelcome.vue'
+import LoginVue from './views/Login.vue';
 </script>
 
 <template>
-  
+  <LoginVue/>
 </template>
 
 <style scoped>
